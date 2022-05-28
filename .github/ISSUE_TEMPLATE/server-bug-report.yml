@@ -22,7 +22,7 @@ body:
         2. Нажмите на '....'
         3. Дойдите до '....'
         4. Увидите ошибку.
-  - type: markdown:
+  - type: markdown
     attributes:
       value: |
         ### Поведение системы
