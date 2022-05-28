@@ -1,7 +1,7 @@
 name: Server Bug Report
-about: Нашли баг на сервере? Пожалуйста, опишите его.
+description: Нашли баг на сервере? Пожалуйста, опишите его.
 title: "[SERVER]"
-labels: bug
+labels: ["bug"]
 assignees: ipiepiepie
 
 body:
