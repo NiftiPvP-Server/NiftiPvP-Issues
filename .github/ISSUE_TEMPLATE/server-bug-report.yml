@@ -22,6 +22,8 @@ body:
         2. Нажмите на '....'
         3. Дойдите до '....'
         4. Увидите ошибку.
+    validations:
+      required: true
   - type: markdown
     attributes:
       value: |
