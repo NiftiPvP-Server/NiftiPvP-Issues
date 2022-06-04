@@ -33,6 +33,7 @@ body:
     attributes:
       label: Фактический результат
       description: Четкое и краткое описание того, что произошло
+      placeholder: Все сломалось :(
     validations:
       required: true
   - type: input
@@ -40,6 +41,7 @@ body:
     attributes:
       label: Ожидаемый результат
       description: Четкое и краткое описание того, что Вы ожидали.
+      placeholder: Все прекрасно работает :)
     validations:
       required: true
   - type: input
